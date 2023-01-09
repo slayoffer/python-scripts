@@ -1,3 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
-print("Hello World!")
+""" This progem is used to test the functionality of the python.
+etc etc etc
+"""
+myvar = 3  # This is a comment
+
+print(myvar)
